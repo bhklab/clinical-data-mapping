@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: v0.14.1
+_src_path: gh:bhklab/bhklab-project-template
+additional_authors_raw: Katy Scott
+author_email: bhklab.sumayaosman@gmail.com
+author_full_name: Sumaya Osman
+github_username: scintillatingsumaya
+has_additional_authors: true
+project_description: 'Clinical data mapping is a project to standardize the cancer
+    imaging archive clinical data '
+project_name: Clinical Data Mapping
+project_slug: clinical-data-mapping
+publish_to_github: true
+python_version: '3.12'
+repo_location: bhklab
