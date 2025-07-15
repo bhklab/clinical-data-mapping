@@ -382,3 +382,13 @@ site/
 # models/
 # sandbox/
 # etc.
+
+rawdata/*
+!rawdata/README.md
+
+procdata/*
+!procdata/README.md
+
+results/*
+!results/README.md
+
